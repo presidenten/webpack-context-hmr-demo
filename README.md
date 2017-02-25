@@ -15,7 +15,7 @@ This is done by adding the [webpack-context-hmr](https://github.com/presidenten/
     - ./src/components/example-component/example-store.js
     - ./src/components/example-component/helper-substore.js
 - Try for example to change the mutation in the `helper-substore.js`
-- Changes to initialState requires manual browser refresh
+- Changes to `initialState` requires manual browser refresh
 - Have fun!
 
 ## Todo

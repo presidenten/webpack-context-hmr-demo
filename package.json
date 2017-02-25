@@ -1,7 +1,7 @@
 {
-  "name": "example",
+  "name": "webpack-context-hmr-demo",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Example usage of webpack-context-hmr",
   "author": "Johan Hernefeldt <johans.inbox@gmail.com>",
   "private": true,
   "scripts": {
